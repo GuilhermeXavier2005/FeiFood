@@ -50,6 +50,11 @@ A aplicação compreender um pequeno simulador de delivery de comidas referente 
    ```bash
    java -jar Projeto.jar
    ```
+3. Execute também os arquivos DDL e DML disponível em postgre/
+   ```bash
+      postgre/DDL/
+      postgre/DML/
+   ```
 
 > **Observação:** Se você não tem um java instalado, recomenda-se instalar para executar o algoritmo.
 > **Observação:** É necessário alterar a senha para o banco de dados no arquivo DAO/dao.java para a sua respectiva senha no postgre
