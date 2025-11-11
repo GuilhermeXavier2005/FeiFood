@@ -52,6 +52,7 @@ A aplicação compreender um pequeno simulador de delivery de comidas referente 
    ```
 
 > **Observação:** Se você não tem um java instalado, recomenda-se instalar para executar o algoritmo.
+> **Observação:** É necessário alterar a senha para o banco de dados no arquivo DAO/dao.java para a sua respectiva senha no postgre
 
 ---
 
