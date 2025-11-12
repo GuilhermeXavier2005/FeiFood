@@ -64,7 +64,7 @@ A aplicação compreender um pequeno simulador de delivery de comidas referente 
 # arquivos
 
 <a href="RelatorioJava.pdf">relatorio com mais aprofundamento</a>
-<a href="https://youtu.be/UC1JesYK3EI">video com o funcionamento do projeto</a>
+
 
 # aprendizados
 
