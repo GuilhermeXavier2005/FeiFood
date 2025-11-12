@@ -1,4 +1,4 @@
-# 💬 FeiFood - Delivery do campus de SBC da FEI(Guias)
+<img width="320" height="231" alt="image" src="https://github.com/user-attachments/assets/6c970da1-04a6-4f15-8dbe-740b35e9d423" /># 💬 FeiFood - Delivery do campus de SBC da FEI(Guias)
 
 
 
@@ -64,6 +64,7 @@ A aplicação compreender um pequeno simulador de delivery de comidas referente 
 # arquivos
 
 <a href="RelatorioJava.pdf">relatorio com mais aprofundamento</a>
+<a href="https://youtu.be/UC1JesYK3EI">video com o funcionamento do projeto</a>
 
 # aprendizados
 
